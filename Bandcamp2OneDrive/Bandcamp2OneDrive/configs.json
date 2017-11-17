@@ -1,0 +1,7 @@
+﻿{
+  "genrepaths": [ "Industrial", "Power Electronics", "Martial", "Electronics", "Neo Folk", "Rock", "Fun", "Avant Garde&Film Musik& Neue Musik" ],
+  "genres": [ "Industrial", "Power Electronics", "Martial", "Electronica", "NeoFolk", "Alternative", "Fun", "Neue Musik" ],
+  "inputpath": "C:\\Users\\marci\\Downloads",
+  //"outputpathroot": "C:\\Users\\marci\\OneDrive\\Music"
+  "outputpathroot": "C:\\Users\\marci\\Desktop"
+}
